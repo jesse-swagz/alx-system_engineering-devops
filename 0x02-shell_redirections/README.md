@@ -1,1 +1,1 @@
-Redirections and filters in shell
+Directory on shell redirections
